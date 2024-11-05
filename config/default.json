@@ -1,0 +1,12 @@
+{
+	"input": {
+		"folder": "inputs",
+		"filename": "OBDeleven_Log.txt"
+	},
+	"output": {
+		"folder": "outputs",
+		"filename": "out.json",
+		"unique": true
+	},
+	"timezone": "America/Bogota"
+}
