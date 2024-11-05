@@ -1,9 +1,9 @@
 {
-	"name": "typescript-template",
+	"name": "obdeleven-log-to-timeline",
 	"version": "1.0.0",
 	"type": "module",
 	"private": true,
-	"description": "TypeScript template",
+	"description": "This utility transforms the OBDEleven logs to a mermaid.js timeline",
 	"exports": "./dist/index.js",
 	"scripts": {
 		"start": "tsx watch src/index.ts",
@@ -15,18 +15,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+ssh://git@github.com/SebSV-GitHub/TypeScript-template.git"
+		"url": "git@github.com:SebSV-GitHub/OBDEleven-log-to-timeline.git"
 	},
 	"keywords": [
 		"TypeScript",
-		"Template"
+		"OBDEleven",
+		"Mermaid.js"
 	],
 	"author": "Sebastián Suárez Valencia <contact@sebsv.com> (https://www.sebsv.com)",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/SebSV-GitHub/TypeScript-template/issues"
+		"url": "https://github.com/SebSV-GitHub/OBDEleven-log-to-timeline/issues"
 	},
-	"homepage": "https://github.com/SebSV-GitHub/TypeScript-template#readme",
+	"homepage": "https://github.com/SebSV-GitHub/OBDEleven-log-to-timeline#readme",
 	"engines": {
 		"node": ">=18"
 	},
